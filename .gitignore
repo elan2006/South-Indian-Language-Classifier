@@ -1,0 +1,5 @@
+._*
+.ipynb_checkpoints
+test*.png
+data
+model.pkl
